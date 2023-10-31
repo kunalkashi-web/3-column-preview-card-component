@@ -1,4 +1,4 @@
-# 3-column preview card component
+# Frontend Mentor - 3 column preview card component
 
 ![desktop-design](https://github.com/kunalkashi-web/3-column-preview-card-component/assets/138725519/73965711-3ba3-4d36-b0b4-e1cfd29462d1)
 
